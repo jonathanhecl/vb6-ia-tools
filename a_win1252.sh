@@ -23,3 +23,6 @@ find "$DIR" -type f \( -name "*.bas" -o -name "*.cls" -o -name "*.frm" -o -name 
 done
 
 echo "Proceso completado."
+
+echo -e "\nPresiona cualquier tecla para continuar..."
+read -n 1 -s -r
