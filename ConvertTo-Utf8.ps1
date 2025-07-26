@@ -63,7 +63,7 @@ foreach ($file in $files) {
 }
 
 # Mostrar resumen
-Write-Host "`nResumen de la conversión:" -ForegroundColor Cyan
+Write-Host "`nResumen de la conversion:" -ForegroundColor Cyan
 Write-Host "- Archivos procesados: $($files.Count)" -ForegroundColor Cyan
 Write-Host "- Archivos convertidos: $converted" -ForegroundColor Green
 
