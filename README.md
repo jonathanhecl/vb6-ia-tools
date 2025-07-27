@@ -44,4 +44,3 @@ Tools for use IA on VB6 (Visual Basic 6)
 ## Notas
 - Los scripts de PowerShell están diseñados para Windows.
 - Los scripts de bash requieren `iconv` instalado.
-- Se recomienda hacer una copia de seguridad de los archivos antes de la conversión.
